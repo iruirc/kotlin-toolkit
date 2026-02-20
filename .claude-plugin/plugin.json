@@ -1,0 +1,9 @@
+{
+  "name": "kotlin-toolkit",
+  "description": "kotlin development toolkit",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dmitry Nuzhin"
+  },
+  "repository": "https://github.com/iruirc/kotlin-toolkit"
+}
