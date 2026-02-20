@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "kotlin-toolkit",
+  "version": "1.0.0",
+  "description": "Kotlin development toolkit with agents and skills",
+  "owner": {
+    "name": "Dmitry Nuzhin"
+  },
+  "metadata": {
+    "description": "Kotlin development toolkit with agents and skills"
+  },
+  "plugins": [
+    {
+      "name": "kotlin-toolkit",
+      "description": "Kotlin development toolkit with refactoring agents",
+      "version": "1.0.0",
+      "author": {
+        "name": "Dmitry Nuzhin"
+      },
+      "source": "./",
+      "repository": "https://github.com/iruirc/kotlin-toolkit",
+      "category": "development",
+      "keywords": ["kotlin"]
+    }
+  ]
+}
