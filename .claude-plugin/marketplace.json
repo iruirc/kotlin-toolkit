@@ -1,26 +1,26 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "kotlin-toolkit",
-  "version": "1.0.0",
-  "description": "Kotlin development toolkit with agents and skills",
+  "version": "2.0.0",
+  "description": "Kotlin development toolkit with specialized agents for architecture, development, refactoring, and testing",
   "owner": {
     "name": "Dmitry Nuzhin"
   },
   "metadata": {
-    "description": "Kotlin development toolkit with agents and skills"
+    "description": "Kotlin development toolkit with specialized agents for architecture, development, refactoring, and testing. Covers backend (Spring Boot, Ktor, Micronaut), mobile (Android, KMP, Jetpack Compose), and CLI."
   },
   "plugins": [
     {
       "name": "kotlin-toolkit",
-      "description": "Kotlin development toolkit with refactoring agents",
-      "version": "1.0.0",
+      "description": "Kotlin development toolkit with architect, backend-developer, mobile-developer, refactorer, and tester agents",
+      "version": "2.0.0",
       "author": {
         "name": "Dmitry Nuzhin"
       },
       "source": "./",
       "repository": "https://github.com/iruirc/kotlin-toolkit",
       "category": "development",
-      "keywords": ["kotlin"]
+      "keywords": ["kotlin", "android", "kmp", "compose", "spring-boot", "ktor"]
     }
   ]
 }

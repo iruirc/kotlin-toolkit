@@ -1,7 +1,7 @@
 {
   "name": "kotlin-toolkit",
-  "description": "kotlin development toolkit",
-  "version": "1.0.0",
+  "description": "Kotlin development toolkit with specialized agents for architect, backend-developer, mobile-developer, refactorer, and tester roles. Covers backend (Spring Boot, Ktor, Micronaut), mobile (Android, KMP, Compose), and CLI development.",
+  "version": "2.0.0",
   "author": {
     "name": "Dmitry Nuzhin"
   },
